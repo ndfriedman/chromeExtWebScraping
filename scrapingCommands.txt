@@ -1,0 +1,2 @@
+scrapy crawl --set="ROBOTSTXT_OBEY=False" --set="FEED_URI"=/Users/friedman/Desktop/chromeExtDatabase/scrapeToCreateDb/scrapeToCreateDb/scrapingResults/powells.csv powellsSpider
+scrapy crawl --set="ROBOTSTXT_OBEY=False" --set="FEED_URI"=/Users/friedman/Desktop/chromeExtDatabase/scrapeToCreateDb/scrapeToCreateDb/scrapingResults/warwicks.csv warwicksSpider

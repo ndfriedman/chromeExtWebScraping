@@ -1,0 +1,2 @@
+/Users/friedman/Desktop/chromeExtDatabase/scrapeToCreateDb/scrapeToCreateDb/powells.csv
+/Users/friedman/Desktop/chromeExtDatabase/scrapeToCreateDb/scrapeToCreateDb/warwicks.csv
